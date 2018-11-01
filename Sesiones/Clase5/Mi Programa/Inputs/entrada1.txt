@@ -1,0 +1,5 @@
+14  <-> yo voy a escribir
+29 <-> unas cuantas lineas de texto
+36 <-> que son las que comenzaremos
+3.1 <-> a estudiar con Entrada
+109 <-> y Salida de Texto

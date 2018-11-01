@@ -19,9 +19,9 @@
 
 # [Sesión 3](http://localhost:8888/notebooks/Dropbox/Courses/Python-CEC/Sesiones/Sesi%C3%B3n%203.ipynb) Martes 23 de Octubre de 2018
 
-* Variables locales y Globales,
+* Variables locales y Globales, 
 * Entrada y Salida de Archivos
-* Ejercicios
+* Ejercicios 
 
 
 # [Sesión 4](http://localhost:8888/notebooks/Dropbox/Courses/Python-CEC/Sesiones/Sesi%C3%B3n%204.ipynb) Jueves 25 de Octubre de 2018
@@ -45,15 +45,15 @@
 
 
 * Interfaces Gráficas
-* Ejercicios
+* Ejercicios 
 
 
 # [Sesión 8](http://localhost:8888/notebooks/Dropbox/Courses/Python-CEC/Sesiones/Sesi%C3%B3n%204.ipynb) Jueves 8 de Noviembre de 2018
 
 * Internet de las Cosas
-* Arduino + Raspberry Pi
+* Arduino + Raspberry Pi 
 * Otras Tarjetas
-* Ejercicios
+* Ejercicios 
 
 
 # [Sesión 9](http://localhost:8888/tree/Dropbox/Courses/Python-CEC/Sesiones/Sesi%C3%B3n%201) Martes 13 de Noviembre de 2018
@@ -65,7 +65,7 @@
 # [Sesión 10](http://localhost:8888/notebooks/Dropbox/Courses/Python-CEC/Sesiones/Sesi%C3%B3n%202.ipynb) Jueves 15 de Noviembre de 2018
 
 * Desarrollo Web con Python
-* Django
+* Django 
 
 
 # [Sesión 11](http://localhost:8888/notebooks/Dropbox/Courses/Python-CEC/Sesiones/Sesi%C3%B3n%203%2020181023.ipynb) Martes 20 de Noviembre de 2018
@@ -86,8 +86,8 @@
 
  * https://greenteapress.com/wp/think-python/
  * https://python.swaroopch.com/
- *
-
+ * 
+ 
 # <center>  Cursos de referencia </center>
 
 * https://www.edx.org/es/course/computing-in-python-i-fundamentals-and-procedural-programming-0#!
@@ -96,4 +96,6 @@
 * https://www.edx.org/es/course/introduction-to-computer-science-and-programming-using-python
 * https://www.edx.org/es/course/using-python-for-research
 * https://www.kaggle.com/sohier/whirlwind-tour-of-python-index
-* https://www.kaggle.com/colinmorris/hello-python
+* https://www.kaggle.com/colinmorris/hello-python 
+
+
