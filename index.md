@@ -15,7 +15,7 @@
 
 # [Sesión 3](Sesiones/Sesion3/Sesion3.ipynb) Martes 23 de Octubre de 2018
 
-* Variables locales y Globales,
+* Variables locales y Globales
 * Entrada y Salida de Archivos
 * Ejercicios
 
@@ -27,6 +27,7 @@
 
 # [Sesión 5](Sesiones/Sesion5/Sesion5.ipynb)  Martes 30 de Octubre de 2018
 
+* Lectura y Escritura en Archivos
 * Ejercicios
 
 # [Sesión 6](Sesiones/Sesion6/Sesion6.ipynb) Jueves 1 de Noviembre de 2018
@@ -75,7 +76,7 @@
 
  * https://greenteapress.com/wp/think-python/
  * https://python.swaroopch.com/
- *
+
 
 # <center>  Cursos de referencia </center>
 
