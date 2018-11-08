@@ -1,32 +1,31 @@
 # <center> Contenido </center>
 
-# [Sesión 1](Sesiones/Sesion1.ipynb) Martes 16 de Octubre de 2018
+# [Sesión 1](Sesiones/Sesion1/Sesion1.ipynb) Martes 16 de Octubre de 2018
 
 * Presentación
 * Introducción
 * Instalación
 * Conceptos Básicos
 
-# [Sesión 2](Sesiones/Sesion2.ipynb) Jueves 18 de Octubre de 2018
+# [Sesión 2](Sesiones/Sesion2/Sesion2.ipynb) Jueves 18 de Octubre de 2018
 
 * lógica Booleana
 * Estructuras de Control
 * funciones
 
-# [Sesión 3](Sesiones/Sesion3.ipynb) Martes 23 de Octubre de 2018
+# [Sesión 3](Sesiones/Sesion3/Sesion3.ipynb) Martes 23 de Octubre de 2018
 
 * Variables locales y Globales,
 * Entrada y Salida de Archivos
 * Ejercicios
 
 
-# [Sesión 4](Sesiones/Sesion4.ipynb) Jueves 25 de Octubre de 2018
+# [Sesión 4](Sesiones/Sesion4/Sesion4.ipynb) Jueves 25 de Octubre de 2018
 
 * Excepciones
 * Ejercicios
 
-# [Sesión 5](Sesiones/Sesion5)  Martes 30 de Octubre de 2018
-
+# [Sesión 5](Sesiones/Sesion5/Sesion5.ipynb)  Martes 30 de Octubre de 2018
 
 * Ejercicios
 
@@ -34,13 +33,11 @@
 
 * The python workbook: Ejercicios
 
-
 # [Sesión 7](Sesiones/Sesion7/Sesion7.ipynb) Martes 6 de Noviembre de 2018
 
 * PANDAS
 * Visualización (Matplotlib, Bokeh)
 * Ejercicios
-
 
 # [Sesión 8](Sesiones/Sesion8/Sesion8.ipynb) Jueves 8 de Noviembre de 2018
 
