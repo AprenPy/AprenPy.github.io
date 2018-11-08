@@ -30,19 +30,19 @@
 
 * Ejercicios
 
-# [Sesión 6](Sesiones/Sesion6.ipynb) Jueves 1 de Noviembre de 2018
+# [Sesión 6](Sesiones/Sesion6/Sesion6.ipynb) Jueves 1 de Noviembre de 2018
 
 * The python workbook: Ejercicios
 
 
-# [Sesión 7](Sesiones/Sesion7.ipynb) Martes 6 de Noviembre de 2018
+# [Sesión 7](Sesiones/Sesion7/Sesion7.ipynb) Martes 6 de Noviembre de 2018
 
 * PANDAS
 * Visualización (Matplotlib, Bokeh)
 * Ejercicios
 
 
-# [Sesión 8](Sesiones/Sesion8.ipynb) Jueves 8 de Noviembre de 2018
+# [Sesión 8](Sesiones/Sesion8/Sesion8.ipynb) Jueves 8 de Noviembre de 2018
 
 * Programación Orientada a Objetos
 * Interfaces Gráficas
