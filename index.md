@@ -1,4 +1,4 @@
-# <center> Contenido </center>
+# <center> Introducción a Programación en Python  </center>
 
 # [Sesión 1](Sesiones/Sesion1/Sesion1.ipynb) Martes 16 de Octubre de 2018
 
